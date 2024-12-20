@@ -4,8 +4,8 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
 
   app: {
-    pageTransition: { name: 'page', mode: 'out-in' }
+    pageTransition: { name: "page", mode: "out-in" },
   },
 
-  modules: ['@nuxt/eslint'],
+  modules: ["@nuxt/eslint", "@nuxt/content", "@nuxtjs/tailwindcss"],
 });

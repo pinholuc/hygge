@@ -9,7 +9,7 @@
 
 <script setup>
 useSeoMeta({
-  title: 'PCI - Perito Lucas Pinho',
+  title: 'Lucas Pinho',
   description: 'This is my amazing site, let me tell you all about it.',
   ogDescription: 'This is my amazing site, let me tell you all about it.',
 })
